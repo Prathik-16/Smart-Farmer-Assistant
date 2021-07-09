@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crop-price-forecasting/static/css/main.dc934b2e.chunk.css",
+    "main.js": "/crop-price-forecasting/static/js/main.40b5d562.chunk.js",
+    "main.js.map": "/crop-price-forecasting/static/js/main.40b5d562.chunk.js.map",
+    "runtime-main.js": "/crop-price-forecasting/static/js/runtime-main.92babe26.js",
+    "runtime-main.js.map": "/crop-price-forecasting/static/js/runtime-main.92babe26.js.map",
+    "static/js/2.d35c114c.chunk.js": "/crop-price-forecasting/static/js/2.d35c114c.chunk.js",
+    "static/js/2.d35c114c.chunk.js.map": "/crop-price-forecasting/static/js/2.d35c114c.chunk.js.map",
+    "index.html": "/crop-price-forecasting/index.html",
+    "static/css/main.dc934b2e.chunk.css.map": "/crop-price-forecasting/static/css/main.dc934b2e.chunk.css.map",
+    "static/js/2.d35c114c.chunk.js.LICENSE.txt": "/crop-price-forecasting/static/js/2.d35c114c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/crop-price-forecasting/static/media/08.f195c370.jpg",
+    "static/media/logo.90cfcbfa.gif": "/crop-price-forecasting/static/media/logo.90cfcbfa.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92babe26.js",
+    "static/js/2.d35c114c.chunk.js",
+    "static/css/main.dc934b2e.chunk.css",
+    "static/js/main.40b5d562.chunk.js"
+  ]
+}
